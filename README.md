@@ -21,7 +21,7 @@ Data is Stored locally on device storage with the help of sqflite flutter packag
 Clone the project
 
 ```bash
-  git clone https://github.com/yuvraj0028/task_master.git
+  https://github.com/Mamta013/Task-manager-app-using-flutter.git
 ```
 
 Go to the project directory
